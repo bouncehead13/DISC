@@ -18,8 +18,8 @@ Required packages:
 - [MoviePy](http://zulko.github.io/moviepy/) (version 2.2.11) `$ pip install moviepy`
 
 ## Commands
-`num_providers`: The number of instances to create with each storage provider
-`--upload` or `--download`: Whether to upload or download the file
-`--million`, `--split`, `--available`, `--scale`, `--low`: User policies
+- `num_providers`: The number of instances to create with each storage provider
+- `--upload` or `--download`: Whether to upload or download the file
+- `--million`, `--split`, `--available`, `--scale`, `--low`: User policies
 
 Example command: `python driver.py 2 --upload --split`
