@@ -1,0 +1,21 @@
+# Do not include hidden Mac files
+*.DS_Store
+
+# Do not include compiled files
+*.pyc
+
+# Do not include storage keys
+keys/*.txt
+manager/keys/*.txt
+
+# Do not include extraneous upload files
+uploadFiles/*
+manager/uploadFiles/*
+
+# Include Readme files
+!keys/README.txt
+!manager/keys/README.txt
+
+# Include original upload file
+!uploadFiles/original.png
+!manager/uploadFiles/original.png

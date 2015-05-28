@@ -1,0 +1,1 @@
+All keys associated to the storage provider are stored in this folder. They are currently unencrypted which will be in a future update.
