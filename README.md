@@ -5,7 +5,8 @@ We improve performance by concurrently processing files and leveraging a multi-s
 
 ## Installation
 Tested with Python 2.7.6
-Installing packages may require `sudo`
+
+**Note: Installing packages may require `sudo`**
 
 First install a package manager. I recommend using `pip` which can be installed following [these instructions](https://pip.pypa.io/en/stable/installing.html)
 
